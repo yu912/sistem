@@ -24,7 +24,7 @@
 - Selanjutnya masukkan request api http://127.0.0.1:8000/api/{sesuai-action-yang-tertera} dan methodnya.
 
 # Author
-- Muhammad Mukhlish Syarif
+- Reyhan Algofari Sobar
 
 
 
